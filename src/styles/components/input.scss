@@ -1,0 +1,18 @@
+.component-input {
+    display: flex;
+    align-items: center;
+
+    &__sign{
+        font-size: 32px;
+        color: gray;
+    }
+
+    &__input{
+        font-size: 32px;
+        outline: none;
+        background-color: transparent;
+        text-align: right;
+        border: none;
+        width: 100%;
+    }
+}

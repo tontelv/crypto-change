@@ -1,0 +1,16 @@
+.component-button{
+    width: 100%;
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    padding: 16px 0px;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.component-button-disabled{
+    background-color: #555555;
+    cursor: not-allowed;
+}
